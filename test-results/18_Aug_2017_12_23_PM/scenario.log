@@ -1,0 +1,12 @@
+12:24:17 scenario.file.loc[Ljava.lang.String;@3b088d51
+12:24:17 loading BDD file: D:\Automated Testing\JavaSelenium and Appium\Demo Jenkins\.\scenarios\suite1.bdd
+12:24:17 total test found: 1
+12:24:17 
+
+Executing scenario: SampleTest - Sample Test Scenario
+12:24:17 pkg: com.qmetry.qaf.automation.step
+12:24:18 pkg: com.demojenkins
+12:24:18 Found duplicate step to load [] with [lower] prority then []
+12:24:18 Invoking Teststep: Given user open google search engine
+12:24:29 Completed Teststep: Given user open google search engine
+12:24:29 Competed scenario: SampleTest with status SUCESS

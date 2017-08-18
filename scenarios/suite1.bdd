@@ -1,0 +1,10 @@
+
+
+SCENARIO: SampleTest
+META-DATA: {"description":"Sample Test Scenario","groups":["SMOKE"]}
+	
+	Given user open google search engine
+	#And search for any product
+	#Then veryfy product page is opening
+	
+END

@@ -1,0 +1,2 @@
+search.box = {\"locator\":\"css=#gs_htif0\",\"desc\":\"google search box\"}
+search.key = {\"locator\":\"xpath=//input[@type='submit' AND @value='Google Search']\",\"desc\":\"google submit button\"}

@@ -1,0 +1,19 @@
+11:41:16 scenario.file.loc[Ljava.lang.String;@74650e52
+11:41:16 loading BDD file: D:\Automated Testing\JavaSelenium and Appium\Demo Jenkins\.\scenarios\suite1.bdd
+11:41:16 total test found: 1
+11:41:16 
+
+Executing scenario: SampleTest - Sample Test Scenario
+11:41:16 pkg: com.qmetry.qaf.automation.step
+11:41:16 pkg: com.demo jenkins
+11:41:16 Found duplicate step to load [] with [lower] prority then []
+11:41:16 
+/**
+* Auto-generated code snippet by QMetry Automation Framework.
+*/
+@QAFTestStep(description="user open google search engine{0}")
+public void userOpenGoogleSearchEngine(long l0){
+	//TODO: remove NotYetImplementedException and call test steps
+	throw new NotYetImplementedException();
+}
+11:41:16 Competed scenario: SampleTest with status FAILURE
